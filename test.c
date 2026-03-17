@@ -1,1 +1,1 @@
-#include <stdio,h> int main() {print("hello,git!");return 0;}
+#include <stdio.h> int main() {print("hello,git!");return 0;}
